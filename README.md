@@ -5,7 +5,7 @@ Link to the paper: <https://arxiv.org/abs/2107.04150>.
 
 Implemented using (items marked with (*) are required by the inference gym):
 - python 3.7.9
-- Jax 0.2.9
+- jax 0.2.9
 - jaxlib 0.1.61
 - numpyro 0.5.0
 - numpy 1.19.5
