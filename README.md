@@ -1,5 +1,5 @@
-# UHA
-Code for "MCMC Variational Inference via Uncorrected Hamiltonian Annealing", by Tomas Geffner and Justin Domke, NeurIPS 2021.
+# Uncorrected Hamiltonian Annealing (UHA)
+Simple implementation of UHA, described in "MCMC Variational Inference via Uncorrected Hamiltonian Annealing", by Tomas Geffner and Justin Domke, NeurIPS 2021.
 
 Link to the paper: <https://arxiv.org/abs/2107.04150>.
 
